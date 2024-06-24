@@ -6,7 +6,7 @@
 😄 Pronombres: Él
 ⚡ Dato curioso: Amo tocar la guitarra y pasar parte del día leyendo o haciendo ejercicio
 
-![Banner](![svg xmlns=httpwww w3 org2000svg width=480 height=639 class= defs style defs style@keyframes animation-gauge{0%{stroke-dasharray0 329}}@keyframes](https://github.com/Sechi42/Sechi42/assets/166199960/d55827e5-2502-48cb-8cf3-fcf3642b3ff6))
+![svg xmlns=httpwww w3 org2000svg width=480 height=639 class= defs style defs style@keyframes animation-gauge{0%{stroke-dasharray0 329}}@keyframes](https://github.com/Sechi42/Sechi42/assets/166199960/d55827e5-2502-48cb-8cf3-fcf3642b3ff6)
 
 ## Habilidades
 ### Lenguajes de Programación
