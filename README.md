@@ -44,11 +44,18 @@ Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="asyn
 ---
 
 ## Contacto
-<div id="contact" align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ParaTuVitalidad)
-  [![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choptop12@gmail.com)
+<div id="contact" align="left">
+  <a href="https://www.linkedin.com/in/sergio-anaya-sanchez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/ParaTuVitalidad">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:choptop12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico"/>
+  </a>
 </div>
+
 
 
 
