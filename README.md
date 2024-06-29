@@ -28,7 +28,7 @@ Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="asyn
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,r,sql,tensorflow,scikit-learn,pandas,numpy,jupyter,aws)](https://skillicons.dev)
+   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,sql,tensorflow,scikit-learn,pandas,numpy,jupyter,aws" alt="My Skills" style="margin: 10px;"/></a>
 
 </div>
 
@@ -46,15 +46,8 @@ Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="asyn
 ## Contacto
 <div id="contact" align="left">
   <a href="https://www.linkedin.com/in/sergio-anaya-sanchez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/ParaTuVitalidad">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:choptop12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico"/>
-  </a>
-</div>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&
+
 
 
 
