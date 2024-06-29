@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/JorgCaceres/JorgCaceres/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/Sechi42/Sechi42/assets/166199960/d55827e5-2502-48cb-8cf3-fcf3642b3ff6" width="800"/>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
 
@@ -8,13 +8,14 @@
 </div>
 
 ---
+
 <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
-Amante de la ciencia de datos y entusiasta de la tecnología<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 * :telescope: Actualmente estoy aprendiendo Deep Learning y refinando mis conocimientos en Machine Learning. Estoy buscando colaborar en proyectos de análisis de datos empresariales.
 
-* :seedling: Tengo experiencia en Python, R, SQL, TensorFlow, scikit-learn, Pandas, NumPy y Jupyter.
+* :seedling: Tengo experiencia en Python, R, SQL, TensorFlow, scikit-learn, Pandas, NumPy, Jupyter y AWS.
 
 * :heartbeat: Me encanta el desafío de descubrir nuevas formas de analizar datos y automatizar procesos.
 
@@ -27,7 +28,7 @@ Amante de la ciencia de datos y entusiasta de la tecnología<img decoding="async
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
   
-   [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,tensorflow,scikit-learn,pandas,numpy,jupyter,github,git,vscode)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,tensorflow,scikit-learn,pandas,numpy,jupyter,aws)](https://skillicons.dev)
 
 </div>
 
