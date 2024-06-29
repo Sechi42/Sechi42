@@ -1,42 +1,50 @@
-👋 Hola, soy @Sechi42
-👀 Me interesa la Ciencia de Datos
-🌱 Actualmente estoy aprendiendo Deep Learning y refinando mis conocimientos en Machine Learning
-💞️ Estoy buscando colaborar en proyectos de análisis de datos empresariales
-📫 Cómo contactarme: choptop12@gmail.com
-😄 Pronombres: Él
-⚡ Dato curioso: Amo tocar la guitarra y pasar parte del día leyendo o haciendo ejercicio
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/JorgCaceres/JorgCaceres/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>
 
-![svg xmlns=httpwww w3 org2000svg width=480 height=639 class= defs style defs style@keyframes animation-gauge{0%{stroke-dasharray0 329}}@keyframes](https://github.com/Sechi42/Sechi42/assets/166199960/d55827e5-2502-48cb-8cf3-fcf3642b3ff6)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
 
-## Habilidades
-### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://komarev.com/ghpvc/?username=Sechi42&color=blueviolet&style=flat-square)
+  
+</div>
 
-### Herramientas y Librerías
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+---
+<div id="header" align="left">
 
-## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Sechi42&show_icons=true&theme=radical)
+### :man_technologist: Sobre mí :
+Amante de la ciencia de datos y entusiasta de la tecnología<img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+* :telescope: Actualmente estoy aprendiendo Deep Learning y refinando mis conocimientos en Machine Learning. Estoy buscando colaborar en proyectos de análisis de datos empresariales.
 
-![Lenguajes más utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Sechi42&layout=compact&theme=radical)
+* :seedling: Tengo experiencia en Python, R, SQL, TensorFlow, scikit-learn, Pandas, NumPy y Jupyter.
 
+* :heartbeat: Me encanta el desafío de descubrir nuevas formas de analizar datos y automatizar procesos.
 
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Sergio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
 
-### Herramientas de Desarrollo
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* :e-mail: choptop12@gmail.com
+
+---
+
+### :hammer_and_wrench: Lenguajes y herramientas :
+<div id="header" align="left">
+  
+   [![My Skills](https://skillicons.dev/icons?i=py,r,postgres,tensorflow,scikit-learn,pandas,numpy,jupyter,github,git,vscode)](https://skillicons.dev)
+
+</div>
+
+---
+
+### :fire: Mis estadísticas:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sechi42&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sechi42&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ## Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ParaTuVitalidad)
-[![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](choptop12@gmail.com)
+[![Correo Electrónico](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:choptop12@gmail.com)
+
 
 
 
