@@ -21,7 +21,7 @@ Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="asyn
 
 * :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Sergio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
 
-* :e-mail: choptop12@gmail.com
+* :e-mail: sergio.anayads@gmail.com
 
 ---
 
@@ -51,7 +51,7 @@ Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="asyn
   <a href="https://x.com/ParaTuVitalidad">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:choptop12@gmail.com">
+  <a href="mailto:sergio.anayads@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico"/>
   </a>
 </div>
