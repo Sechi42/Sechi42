@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="![image](https://github.com/user-attachments/assets/fa1f5f9b-c754-4285-a73f-c3e34dd75ed2)
+  <img decoding="async" src="(https://github.com/user-attachments/assets/fa1f5f9b-c754-4285-a73f-c3e34dd75ed2)
 " width="800"/>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
