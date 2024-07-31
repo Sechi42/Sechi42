@@ -15,7 +15,7 @@
 Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 * :telescope: Actualmente estoy aprendiendo **Deep Learning** y refinando mis conocimientos en **Machine Learning**. Estoy buscando colaborar en proyectos de **análisis de datos empresariales**.
 
-* :seedling: Tengo experiencia en **Python, R, SQL, TensorFlow, scikit-learn, Pandas, NumPy, Jupyter, BERT y AWS practitioner**.
+* :seedling: Tengo experiencia en **Python, R, SQL, TensorFlow, scikit-learn, BERT y AWS practitioner**.
 
 * :heartbeat: Me encanta el desafío de descubrir nuevas formas de analizar datos y automatizar procesos.
 
