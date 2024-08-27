@@ -28,7 +28,7 @@ Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="asyn
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
   
-   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,tensorflow,sklearn,aws,mysql,git" alt="My Skills" style="margin: 10px;"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,r,tensorflow,sklearn,aws,mysql,git,docker,mlflow" alt="My Skills" style="margin: 10px;"/></a>
 
 </div>
 
