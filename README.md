@@ -13,9 +13,9 @@
 
 ### :man_technologist: Sobre mí :
 Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
-* :telescope: Actualmente estoy aprendiendo **Deep Learning** y refinando mis conocimientos en **Machine Learning**. Estoy buscando colaborar en proyectos de **análisis de datos empresariales**.
+* :telescope: Actualmente estoy aprendiendo **AWS** y refinando mis conocimientos en **MLOps**. Estoy buscando colaborar en proyectos de **análisis de datos empresariales**.
 
-* :seedling: Tengo experiencia en **Python, R, SQL, Flask, Streamlit, MLOps, TensorFlow, scikit-learn, NLP y AWS practitioner**.
+* :seedling: Tengo experiencia en **Python, R, SQL, Flask, Streamlit, MLOps, TensorFlow, scikit-learn, NLP y AWS practitioner(EC2, ECR, S3 etc.)**.
 
 * :heartbeat: Me encanta el desafío de descubrir nuevas formas de analizar datos y automatizar procesos.
 
