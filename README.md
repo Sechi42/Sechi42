@@ -29,7 +29,7 @@ Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="asyn
 <div id="header" align="left">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,sklearn,aws,mysql,git,docker,fastapi,flask" 
+    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,sklearn,aws,mysql,git,docker,fastapi,flask,prometheus,grafana" 
     alt="My Skills" style="margin: 10px;"/>
 </a>
 
