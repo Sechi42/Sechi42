@@ -15,7 +15,7 @@
 Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 * :telescope: Actualmente estoy aprendiendo **AWS** y refinando mis conocimientos en **MLOps**. Estoy buscando colaborar en proyectos de **análisis de datos empresariales**.
 
-* :seedling: Tengo experiencia en **Python, R, SQL, Flask, Streamlit, MLOps, TensorFlow, scikit-learn, NLP y AWS practitioner(EC2, ECR, S3 etc.)**.
+* :seedling: Tengo experiencia en **Python, R, SQL, Flask, Streamlit, MLOps, TensorFlow, scikit-learn, NLP y AWS practitioner(Codepipeline, Sagemaker, CodeDeploy, ECR, S3 etc.)**.
 
 * :heartbeat: Me encanta el desafío de descubrir nuevas formas de analizar datos y automatizar procesos.
 
@@ -29,7 +29,7 @@ Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="asyn
 <div id="header" align="left">
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,sklearn,aws,mysql,git,docker,fastapi,flask,prometheus" 
+    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,sklearn,aws,mysql,git,docker,fastapi,flask,prometheus,sagemaker" 
     alt="My Skills" style="margin: 10px;"/>
 </a>
 
