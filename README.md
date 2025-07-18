@@ -23,7 +23,7 @@ Apasionado de la ciencia de datos y entusiasta de la tecnología <img decoding="
 ### 🧰 Lenguajes y herramientas
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,sklearn,aws,terraform,mysql,git,docker,fastapi,flask,streamlit,prometheus,sagemaker" alt="My Skills"/>
+  <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,sklearn,aws,terraform,mysql,git,docker,fastapi,flask,prometheus" alt="My Skills"/>
 </a>
 
 ---
