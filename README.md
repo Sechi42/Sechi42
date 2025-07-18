@@ -1,53 +1,46 @@
-<div id="header" align="center">
+<div align="center" id="header">
   <img decoding="async" src="https://github.com/user-attachments/assets/fa1f5f9b-c754-4285-a73f-c3e34dd75ed2" width="800"/>
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
+  <br>
 
-![](https://komarev.com/ghpvc/?username=Sechi42&color=blueviolet&style=flat-square)
-  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
+  ![](https://komarev.com/ghpvc/?username=Sechi42&color=blueviolet&style=flat-square)
 </div>
 
 ---
 
-<div id="header" align="left">
+### 👨‍💻 Sobre mí
 
-### :man_technologist: Sobre mí :
-Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
-* :telescope: Actualmente estoy aprendiendo **AWS** y refinando mis conocimientos en **MLOps**. Estoy buscando colaborar en proyectos de **análisis de datos empresariales**.
+Apasionado de la ciencia de datos y entusiasta de la tecnología <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
 
-* :seedling: Tengo experiencia en **Python, R, SQL, Flask, Streamlit, MLOps, TensorFlow, scikit-learn, NLP y AWS practitioner(Codepipeline, Sagemaker, CodeDeploy, ECR, S3 etc.)**.
-
-* :heartbeat: Me encanta el desafío de descubrir nuevas formas de analizar datos y automatizar procesos.
-
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Sergio-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
-
-* :e-mail: sergio.anayads@gmail.com
+- 🔭 Actualmente aprendiendo **AWS** y profundizando en **MLOps**.
+- 🤝 Buscando colaborar en proyectos de **análisis de datos empresariales**.
+- 💡 Me entusiasma descubrir nuevas formas de analizar datos y automatizar procesos.
+- 📫 ¿Quieres contactarme? [sergio.anayads@gmail.com](mailto:sergio.anayads@gmail.com) o conéctame en [LinkedIn](https://www.linkedin.com/in/sergio-anaya-sanchez/).
 
 ---
 
-### :hammer_and_wrench: Lenguajes y herramientas :
-<div id="header" align="left">
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,sklearn,aws,mysql,git,docker,fastapi,flask,prometheus,sagemaker" 
-    alt="My Skills" style="margin: 10px;"/>
+### 🧰 Lenguajes y herramientas
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,sklearn,aws,terraform,mysql,git,docker,fastapi,flask,streamlit,prometheus,sagemaker" alt="My Skills"/>
 </a>
 
-</div>
-
 ---
 
-### :fire: Mis estadísticas:
-<div id="stats" align="center">
+### 🔥 Mis estadísticas
+
+<div align="center" id="stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Sechi42&theme=dark&background=000000" alt="GitHub Streak"/>
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sechi42&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
 </div>
 
 ---
 
-## Contacto
-<div id="contact" align="left">
+### 📬 Contacto
+
+<div align="left" id="contact">
   <a href="https://www.linkedin.com/in/sergio-anaya-sanchez/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -55,16 +48,6 @@ Amante de la ciencia de datos y entusiasta de la tecnología <img decoding="asyn
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:sergio.anayads@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico"/>
   </a>
 </div>
-
-
-
-
-
-
-
-
-
- 
