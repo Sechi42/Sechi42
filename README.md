@@ -1,9 +1,14 @@
-<div align="center" id="header">
-  <img decoding="async" src="https://github.com/user-attachments/assets/fa1f5f9b-c754-4285-a73f-c3e34dd75ed2" width="800"/>
-  <br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-anaya-sanchez/)
-  ![](https://komarev.com/ghpvc/?username=Sechi42&color=blueviolet&style=flat-square)
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fa1f5f9b-c754-4285-a73f-c3e34dd75ed2" width="800" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sergio-anaya-sanchez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sechi42&color=blueviolet&style=flat-square" alt="Profile Views"/>
+</p>
+
 
 ---
 
@@ -78,7 +83,7 @@ graph TD
 
   SCHEDULER -->|Programa| LAMBDA
   TRIGGER -->|Valida reglas| LAMBDA
-
+```
 ### 🚀 Proyectos Destacados
 
 #### ⚙️ Red Energy API  
